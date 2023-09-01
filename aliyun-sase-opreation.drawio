@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T07:39:30.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="PH4aa8t2ND5cddJOlmqC" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T07:40:11.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="fbW4V0dVYbW0pdY2XzoI" version="21.7.1" type="github">
   <diagram name="第 1 页" id="lXrbBzzjKaKk0GrQbkSO">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="Y-qX1QnGy1_NCHg85__T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y-qX1QnGy1_NCHg85__T-5" target="Y-qX1QnGy1_NCHg85__T-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y-qX1QnGy1_NCHg85__T-5" value="1. 以管理员运行powershell - 导入AD模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y-qX1QnGy1_NCHg85__T-5" value="1. 以管理员身份运行powershell - 导入AD模块" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="140" width="280" height="75" as="geometry">
             <mxRectangle x="115" y="510" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -40,7 +40,9 @@
           <mxGeometry x="5" y="30" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y-qX1QnGy1_NCHg85__T-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y-qX1QnGy1_NCHg85__T-8" target="Y-qX1QnGy1_NCHg85__T-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="870" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
