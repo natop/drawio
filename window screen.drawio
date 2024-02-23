@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T02:57:17.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" version="21.6.2" etag="qtXUGxxGmQWFy4NykWZ5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T09:25:18.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="PgpmbnpvVMXEl8TMA-xB" version="22.1.18" type="github">
   <diagram name="第 1 页" id="CJcMfTpAnwNg5Ww8BH1B">
-    <mxGraphModel>
+    <mxGraphModel dx="713" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-14" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oZqUKkAP4TWX_VYrOpFU-3" target="oZqUKkAP4TWX_VYrOpFU-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-3" value="pve2.example.com" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-16" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oZqUKkAP4TWX_VYrOpFU-4" target="oZqUKkAP4TWX_VYrOpFU-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-4" value="pve4.example.com" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oZqUKkAP4TWX_VYrOpFU-5" target="oZqUKkAP4TWX_VYrOpFU-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oZqUKkAP4TWX_VYrOpFU-5" target="oZqUKkAP4TWX_VYrOpFU-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-5" value="pve1.example.com" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-15" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oZqUKkAP4TWX_VYrOpFU-6" target="oZqUKkAP4TWX_VYrOpFU-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-6" value="pve3.example.com" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r440;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="162" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-7" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9776a_2530_24g_switch;" vertex="1" parent="1">
+          <mxGeometry x="330" y="600" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="oZqUKkAP4TWX_VYrOpFU-8" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j9773a_2530_24g_poeplus_switch;" vertex="1" parent="1">
+          <mxGeometry x="330" y="650" width="142" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
