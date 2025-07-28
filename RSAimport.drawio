@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T07:10:27.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" version="21.7.1" etag="O7t1ibXHKxprq0bj-dhR" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.0.6">
   <diagram name="第 1 页" id="G7EctAy60NOAZghK-SAu">
-    <mxGraphModel>
+    <mxGraphModel dx="943" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q5634z561U06madiNtx6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-3" target="q5634z561U06madiNtx6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5634z561U06madiNtx6-7">
+          <mxGeometry x="-0.3437" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-3" target="q5634z561U06madiNtx6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-3" value="提示：&lt;div&gt;输入动态码？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="160" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-8" value="输入动态码" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="339" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-9" value="听到待接提示声" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="790" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-11" value="&lt;div&gt;动态验证服务器故障&lt;/div&gt;联系高峰（6975）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="324" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.615;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-8" target="q5634z561U06madiNtx6-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-19" target="q5634z561U06madiNtx6-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150.0000000000001" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-21" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5634z561U06madiNtx6-20">
+          <mxGeometry x="-0.4367" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.504;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-19" target="q5634z561U06madiNtx6-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5634z561U06madiNtx6-23">
+          <mxGeometry x="-0.225" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-19" value="提示：&lt;div&gt;用户验证失败？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="390" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-22" value="&lt;div&gt;电话线路故障&lt;/div&gt;联系杨武（6979）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="315" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-25" target="q5634z561U06madiNtx6-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5634z561U06madiNtx6-30">
+          <mxGeometry x="-0.5977" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-25" value="&lt;font&gt;提示：&lt;/font&gt;&lt;div&gt;&lt;font&gt;拨打的手机是空号？&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="640" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-26" target="q5634z561U06madiNtx6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-26" value="&lt;div&gt;拨打400电话&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-32" target="q5634z561U06madiNtx6-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-32" value="&lt;div&gt;输入样户手机号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="q5634z561U06madiNtx6-25" target="q5634z561U06madiNtx6-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5634z561U06madiNtx6-36" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5634z561U06madiNtx6-35">
+          <mxGeometry x="-0.4037" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
